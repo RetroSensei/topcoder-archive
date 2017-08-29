@@ -29,7 +29,7 @@ public class ILike5 {
             }
         }
 
-        steps = steps + (isOk || steps != 0 ? 0 : 1);
+        steps += isOk || steps != 0 ? 0 : 1;
 
         System.out.println(steps);
 
