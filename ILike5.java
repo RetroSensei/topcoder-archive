@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * RetroSensei
+ * https://community.topcoder.com/stat?c=problem_statement&pm=14620
  */
 
 public class ILike5 {
